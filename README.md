@@ -40,28 +40,15 @@ Procedure:
 
 
 ## Program 
-// Roll no:
-//Name:
-MoveJ ................
+
+![2](https://user-images.githubusercontent.com/74660507/175454530-6bf50d16-5541-4add-a617-3bcdc03e51ea.jpeg)
+
 
 ## output : 
-![WhatsApp Image 2022-06-18 at 11 37 54 AM (2)](https://user-images.githubusercontent.com/77089276/175453964-18bb17ce-1018-4ffa-9819-48e8148e9b4c.jpeg)
-![WhatsApp Image 2022-06-18 at 11 37 54 AM (1)](https://user-images.githubusercontent.com/77089276/175453971-0a76295a-3709-41d7-996e-7b40a96bfb6a.jpeg)
-![WhatsApp Image 2022-06-18 at 11 37 54 AM](https://user-images.githubusercontent.com/77089276/175453973-4efa95df-abb0-4ab9-af0f-ae174dc10dbc.jpeg)
-![WhatsApp Image 2022-06-18 at 11 37 53 AM (2)](https://user-images.githubusercontent.com/77089276/175453977-fe302021-37b3-461e-a3c2-3fc29c0d5dd8.jpeg)
-![WhatsApp Image 2022-06-18 at 11 37 53 AM (1)](https://user-images.githubusercontent.com/77089276/175453979-ee1b80b2-64c9-4b42-96ac-f68ddcf6dbe4.jpeg)
-![WhatsApp Image 2022-06-18 at 11 37 53 AM](https://user-images.githubusercontent.com/77089276/175453984-9e5f56bc-4b61-4c88-bc80-794225e1d0fb.jpeg)
-![WhatsApp Image 2022-06-18 at 11 37 52 AM](https://user-images.githubusercontent.com/77089276/175453987-7eb17634-7523-48e3-bea6-93b7576e17b4.jpeg)
-![WhatsApp Image 2022-06-18 at 11 37 56 AM](https://user-images.githubusercontent.com/77089276/175454014-0ff267a1-672c-4ebb-94b5-a61259100e49.jpeg)
-![WhatsApp Image 2022-06-18 at 11 37 55 AM](https://user-images.githubusercontent.com/77089276/175454016-1b23a82e-4937-4ff3-b3c1-4f28fddd277b.jpeg)
-![WhatsApp Image 2022-06-18 at 12 02 15 PM (1)](https://user-images.githubusercontent.com/77089276/175454006-daace5c5-9b76-461c-9ac0-e5a8909d215d.jpeg)
-![WhatsApp Image 2022-06-18 at 12 02 15 PM](https://user-images.githubusercontent.com/77089276/175454012-4429ca69-11dc-4106-8d45-923a9751aec9.jpeg)
 
+![1](https://user-images.githubusercontent.com/74660507/175454442-e723be1f-1c43-4c07-97d7-835787d1e83d.jpeg)
 
 
 ## Results: 
 
-
-
-
-
+Thus, program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio is executed.
